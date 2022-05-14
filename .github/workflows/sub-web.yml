@@ -31,7 +31,7 @@ jobs:
 
     - name: Update sub-web
       run: |
-        git clone https://github.com/CareyWang/sub-web.git
+        git clone https://github.com/live2364li/sub.git
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
