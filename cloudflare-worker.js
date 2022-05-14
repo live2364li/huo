@@ -1,5 +1,5 @@
 // 编辑为你的后端地址
-const api = "https://your subconverter.up.railway.app";
+const api = "https://railway.app/dashboard";
 // 设置被屏蔽的订阅链接黑名单
 const blacklist = {"url":[
   /http(s)?:\/\/.*\.(now\.sh|vercel\.app)/,
